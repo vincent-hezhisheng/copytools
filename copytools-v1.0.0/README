@@ -1,0 +1,8 @@
+步骤：
+1 把copytools-v1.0.0拷贝到与LOGxxx/logxxx文件夹同一目录下；
+
+2 把MAC地址填入 需查找的MAC地址.txt , 每行一个Mac地址！
+  比如：可参考 需查找的MAC地址.txt 文件内容MAC地址格式！
+  
+3 双击COPY.bat,就会自动寻找到MAC地址相关文件且拷贝到 复制出的文件 目录下！
+
