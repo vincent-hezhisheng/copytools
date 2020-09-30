@@ -45,4 +45,6 @@ rem 删除 AllDestinationFiles文件
 del AllDestinationFiles
 
 @echo Script execution complete
+rem 直接退出
+exit
 @pause
